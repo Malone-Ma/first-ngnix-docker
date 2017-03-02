@@ -1,4 +1,4 @@
-FROM ubuntu:14:04
+FROM ubuntu:14.04
 
 MAINTAINER "Malone Ma" <303397077@qq.com>
 RUN apt-get update

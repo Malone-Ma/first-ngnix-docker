@@ -6,5 +6,3 @@ RUN apt-get install -y nginx
 EXPOSE 80
 
 WORKDIR /usr/www/html
-
-RUN chown -R docker:docker /usr/www/html
